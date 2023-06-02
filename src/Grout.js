@@ -429,7 +429,7 @@ function Grout() {
                 <a className='cta-btn'>
                   <i className='fa-brands fa-whatsapp'></i>
                 </a>
-                <h2>+92-31-00000000</h2>
+                <h2>+92-330-1814260</h2>
               </div>
             </div>
           </div>
